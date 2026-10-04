@@ -1,0 +1,92 @@
+header{padding: 0%;
+    
+    background-color:#3B2416;
+    height:90px;
+}
+ul{
+    margin-left:600px;
+}
+li{
+    display:inline;
+    color: white;
+    margin-left:40px;
+    position: relative;
+    top:-70px;
+}
+button{
+    color: white;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: #eed1ae;
+}
+main{
+    background-image:url(b-hero.png);
+    background-repeat:no-repeat;
+    background-size:cover;
+    height:470px;
+}
+a{
+    color:black;
+}
+b{
+    color: white;
+    margin-left:80px;
+    position:relative;
+    top:90px;
+    font-size:60px;
+
+}
+
+
+button{
+    background-color:#C79A5A;
+    border-radius:8px;
+    height:40px;
+}
+.fathercof{
+    display:flex;
+    background-color: #eed1ae;
+}
+.soncof1{
+    text-align: center;
+    width:23%;
+    margin-left:40px; 
+}
+.soncof2{
+    text-align: center;
+    width:23%;
+    margin-left:40px;
+}
+.soncof3{
+    text-align: center;
+    width:23%;
+    margin-left:40px;
+}
+.soncof4{
+    text-align: center;
+    width:23%;
+    margin-left:40px;
+}
+footer{
+    margin-bottom: 30px;
+    height:280px;
+    background-color: #3B2416;
+}
+.footerF{
+display: flex;    
+}
+.footer1{
+width:50%;
+color:white;
+}
+.footer2{
+    width:50%;
+color:white;
+padding-top: 40px;
+font-size: 20px;
+}
+a{
+padding-bottom: 20px;
+}
